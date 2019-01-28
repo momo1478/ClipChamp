@@ -1,0 +1,4 @@
+-Add Channel specific emotes
+    -Get channel metadata
+    -request via emote_images endpoint
+-When coming accross unfamiliar emote id add them to emote lookup table
